@@ -6,9 +6,9 @@ Aplicación móvil de lista de tareas (ToDo List) con **React Native y Expo SDK 
 
 **Integrantes:** Florencia Vergara, Agustina Barbaroy y Andrea Carreño.
 
-**Informe de la evaluación:** [EVU1_Informe_ToDoList_IPSS.docx](EVU1_Informe_ToDoList_IPSS.docx)
+**Informe de la evaluación:** [EVU1_TODOLIST.pdf](EVU1_TODOLIST.pdf)
 
-**Repositorio:** _(agregar enlace)_
+**Repositorio:** https://github.com/AndreaVCC/EVU1_TODOLIST
 
 ## Índice
 
