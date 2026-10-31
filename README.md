@@ -24,4 +24,4 @@ Escanea el código QR con Expo Go, o usa `npm run web` para abrirla en <http://l
 ## Documentación
 
 - [Resumen completo del proyecto](docs/README.md): instalación, vistas, decisiones y buenas prácticas.
-- [Informe de la evaluación](docs/EVU1_Informe_ToDoList_IPSS.docx).
+- [Informe de la evaluación](docs/EVU1_TODOLIST.pdf).
