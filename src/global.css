@@ -1,0 +1,5 @@
+/* El foco de los campos ya se muestra con su borde de color. */
+input:focus,
+textarea:focus {
+  outline: none;
+}
