@@ -10,6 +10,8 @@ Aplicación móvil de lista de tareas (ToDo List) con **React Native y Expo SDK 
 
 **Repositorio:** https://github.com/AndreaVCC/EVU1_TODOLIST
 
+docs/EVU1_TODOLIST.mp4
+
 ## Índice
 
 1. [Cómo ejecutar la app](#1-cómo-ejecutar-la-app)
